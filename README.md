@@ -66,6 +66,8 @@ This project is developed and can be used for further development.
 
 2.The Tableau dashboards can also be put into application for observing and knowing the trends and mobility behaviours during COVID-19 pandemic.
 
+# Team Members : Sreetam Dev & Vrisha Parekh
+
 
 # References
 

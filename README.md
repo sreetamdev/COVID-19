@@ -52,9 +52,9 @@ To run the code script please follow the steps below.
 
 4.The required datasets also needs to be uploaded in the current working directory of jupyter.
 
-4.Install the required libraries if not previously installed.
+5.Install the required libraries if not previously installed.
 
-5.Import the list of libraries below.
+6.Import the list of libraries below.
 
 # Project Status
 This project is developed and can be used for further development.
